@@ -4,16 +4,22 @@
   "description": "Free Code Camp Project for Node, Ember, and Mongo",
   "author": "Joshua Briley",
   "license": "ISC",
-  "keywords": ["freecodecamp", "nodejs", "express", "training"],
+  "keywords": [
+    "freecodecamp",
+    "nodejs",
+    "express",
+    "training"
+  ],
   "dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+    "express": "^4.14.0",
+    "moment": "2.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
