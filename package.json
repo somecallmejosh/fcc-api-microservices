@@ -4,6 +4,7 @@
   "description": "Free Code Camp Project for Node, Ember, and Mongo",
   "author": "Joshua Briley",
   "license": "ISC",
+  "keywords": ["freecodecamp", "nodejs", "express", "training"],
   "dependencies": {
 		"express": "^4.14.0"
 	},
